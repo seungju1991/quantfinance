@@ -1,6 +1,6 @@
 Portfilio Optimization Source Code
 
-Following portfolio optimization strategies (asset allocation strategy) were performed on various dataset (US equities, MSCI Index, F-F factors) with python.
+Following portfolio optimization strategies (asset allocation strategy) based on modern portfolio theory were performed on various dataset (US equities, MSCI Index, F-F factors) with python.
 
 1. Eqaul weight
 2. Risk Parity (Inverse Volatility)
